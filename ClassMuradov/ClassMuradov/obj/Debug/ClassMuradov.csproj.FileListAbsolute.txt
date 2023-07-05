@@ -1,0 +1,6 @@
+C:\Users\307\Desktop\ClassMuradov\ClassMuradov\bin\Debug\ClassMuradov.dll
+C:\Users\307\Desktop\ClassMuradov\ClassMuradov\bin\Debug\ClassMuradov.pdb
+C:\Users\307\Desktop\ClassMuradov\ClassMuradov\obj\Debug\ClassMuradov.csproj.AssemblyReference.cache
+C:\Users\307\Desktop\ClassMuradov\ClassMuradov\obj\Debug\ClassMuradov.csproj.CoreCompileInputs.cache
+C:\Users\307\Desktop\ClassMuradov\ClassMuradov\obj\Debug\ClassMuradov.dll
+C:\Users\307\Desktop\ClassMuradov\ClassMuradov\obj\Debug\ClassMuradov.pdb

@@ -1,0 +1,11 @@
+C:\Users\307\Desktop\ClassMuradov\Muradov\bin\Debug\Muradov.exe.config
+C:\Users\307\Desktop\ClassMuradov\Muradov\bin\Debug\Muradov.exe
+C:\Users\307\Desktop\ClassMuradov\Muradov\bin\Debug\Muradov.pdb
+C:\Users\307\Desktop\ClassMuradov\Muradov\obj\Debug\Muradov.csproj.AssemblyReference.cache
+C:\Users\307\Desktop\ClassMuradov\Muradov\obj\Debug\Muradov.csproj.SuggestedBindingRedirects.cache
+C:\Users\307\Desktop\ClassMuradov\Muradov\obj\Debug\Muradov.csproj.CoreCompileInputs.cache
+C:\Users\307\Desktop\ClassMuradov\Muradov\obj\Debug\Muradov.exe
+C:\Users\307\Desktop\ClassMuradov\Muradov\obj\Debug\Muradov.pdb
+C:\Users\307\Desktop\ClassMuradov\Muradov\bin\Debug\ClassMuradov.dll
+C:\Users\307\Desktop\ClassMuradov\Muradov\bin\Debug\ClassMuradov.pdb
+C:\Users\307\Desktop\ClassMuradov\Muradov\obj\Debug\Muradov.csproj.CopyComplete
